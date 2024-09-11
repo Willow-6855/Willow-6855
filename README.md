@@ -4,8 +4,7 @@ My websites
 COMING SOON: GOLDFISH CENTRAL
 
 
-Skills (no particular order with high variability in ability)
-
+Skills
 - JavaScript
 - Python
 - Java
